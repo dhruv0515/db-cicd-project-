@@ -21,3 +21,5 @@ On every push:
 - Pytest
 - GitHub Actions
 - Python
+
+Testing CI pipeline trigger
